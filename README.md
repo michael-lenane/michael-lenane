@@ -8,7 +8,7 @@ I was introduced to the powers of programming by a co-worker at my first job who
 🟦 [LinkedIn Profile](https://www.linkedin.com/in/michael-lenane-16465668/)
 
 #### You can view my projects so far here:
-[Memory Game](https://michael-lenane.github.io/MemoryGame/)
+[Memory Game](https://michael-lenane.github.io/MemoryGame/)<br>
 [Meme-Generator](https://michael-lenane.github.io/memeGenerator/)
 
 
