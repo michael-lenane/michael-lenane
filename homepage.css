@@ -1,0 +1,33 @@
+
+.top-margin {
+    margin-top: 15px;
+}
+
+.carousel {
+    align-self: auto;
+    margin-bottom: 15px;
+    width: 500px;
+    height: 300px;
+}
+
+.carousel-inner {
+    align-self: auto;
+    margin-bottom: 15px;
+    width: 500px;
+    height: 300px;
+}
+
+.headshot {
+    margin-top: 3px;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    border-radius: 50%;;
+}
+
+.badge-wrap {
+    border: 1px solid black;
+    padding: 0;
+}
+
+
