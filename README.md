@@ -12,7 +12,7 @@ I was introduced to the powers of programming by a co-worker at my first job who
 
 [Connect Four](https://github.com/michael-lenane/connect-four)<br>
 [Memory Game](https://michael-lenane.github.io/MemoryGame/)<br>
-[Meme-Generator](https://michael-lenane.github.io/memeGenerator/)
+[Meme-Generator](https://michael-lenane.github.io/memeGenerator/)<br>
 [Mock Forex Page](https://github.com/michael-lenane/forex-assessment)
 
 <!---
